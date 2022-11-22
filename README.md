@@ -19,8 +19,15 @@ if car is a Vehicle type, we can use (Car) car to cast it back into a Car type.
 
 # How many 'forms' can an object take when using polymorphism?
 
-Multiple. I understand it to be limitless (theoretically...)
+I feel like you want me to say 2. But by my understanding the answer is many. I understand it to be limitless (theoretically...)
 
+If we can cast a dog variable of Mammal type back down to Dog type.... 
+
+then can't Mammal also be a sub class of Animal? 
+
+And can't Animal be a subclass of LivingThing...? 
+
+Might need to talk this one through!
 
 
 # Give an example of when you could use polymorphism.
